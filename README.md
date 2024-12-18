@@ -18,7 +18,7 @@ This is simulating pixelation while a point filer prevents bleeding to create ch
 - create a chain of all needed setup commands to make first use easier 
 
 ## how to use 
-This CLI is relying on Symfony's command component to create an interactive experience. You'll need php and composer setup on your machine.
+This CLI is relying on a couple Symfony components to create an interactive console experience. You'll need php and composer setup on your machine.
 
 Install ImageMagick on your machine and make it available through ``convert``. 
 
