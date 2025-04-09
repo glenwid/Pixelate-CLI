@@ -1,4 +1,4 @@
-# Pixelate API 
+# Pixelate CLI 
 
 Command line tool to create pixel art from images. Currently work in progress but basic features are working.
 
